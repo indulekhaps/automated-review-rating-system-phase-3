@@ -43,3 +43,18 @@ Automated AI system to predict product review ratings using ML, DL, and Transfor
 ## Progress Log
 - Day 1 (Jan 20): Downloaded Amazon Beauty Reviews dataset (701,529 records) and validated schema for review rating prediction.
 
+## Dataset Information
+
+Due to GitHub file size limitations, the dataset is not included in the repository.
+
+Dataset details:
+- Name: Amazon Beauty Reviews
+- Size: ~701,529 reviews
+- Source: Kaggle
+- Category: Cosmetics – Skincare
+
+To reproduce results, download the dataset manually and place it in:
+data/raw/
+
+
+
