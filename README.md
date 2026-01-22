@@ -56,5 +56,7 @@ Dataset details:
 To reproduce results, download the dataset manually and place it in:
 data/raw/
 
+## Progress Log
+- Day 2 (Jan 21): Cleaned dataset, retained only review text and ratings, and performed stratified 80–20 train-test split.
 
 
