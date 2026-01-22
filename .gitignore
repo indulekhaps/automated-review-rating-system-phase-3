@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+data/splits/*.csv
