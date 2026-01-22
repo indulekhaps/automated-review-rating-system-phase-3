@@ -39,3 +39,7 @@ automated-review-rating-system-phase-3/
 # automated-review-rating-system-phase-3
 Automated AI system to predict product review ratings using ML, DL, and Transformer models
 >>>>>>> 8f14ed02d3e31d110336c4e056d54161d97271e4
+
+## Progress Log
+- Day 1 (Jan 20): Downloaded Amazon Beauty Reviews dataset (701,529 records) and validated schema for review rating prediction.
+
