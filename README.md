@@ -58,5 +58,7 @@ data/raw/
 
 ## Progress Log
 - Day 2 (Jan 21): Cleaned dataset, retained only review text and ratings, and performed stratified 80–20 train-test split.
-
+## Progress Log
+- Day 3 (Jan 22): Performed exploratory data analysis including rating distribution,
+  review length analysis, word frequency analysis, word clouds, and business insights.
 
